@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: cbd02da542eba1b44b83a43fb9d4a170
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - thirdPersonShooterController: {instanceID: 0}
+  - aimVirtualCamera: {instanceID: 0}
+  - m_FollowCamera: {instanceID: 0}
+  - replaceShader: {fileID: 4800000, guid: 9cfa5bf52bf84b843b33d93d282b496e, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
